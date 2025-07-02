@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+# Node modules (for React later)
+node_modules/
+build/
+
+# Firebase and environment files
+.env
+firebase-debug.log
+
+# Glide/Sheets
+*.xlsx
+*.csv
+!data/*.csv  # Only include curated CSVs inside /data
