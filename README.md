@@ -25,14 +25,16 @@ A culturally rooted, reflection-driven EdTech initiative to support **UN SDG 4: 
 
 ## 📦 Repository Contents
 
-| Folder | What’s inside |
-|--------|---------------|
+| Folder or File | What’s inside |
+|----------------|----------------|
 | [`proposal.md`](proposal.md) | Project overview, goals, outcomes, and needs |
+| [`docs/ethics-guidelines.md`](docs/ethics-guidelines.md) | Core ethical principles guiding tool development and classroom use |
 | [`data/`](data) | Sample reflection logs, anonymized datasets, Glide sheets |
 | [`docs/`](docs) | Design notes, ethics guidelines, and context studies |
 | [`prototype/`](prototype) | Screenshots or videos of MVP design (Glide/Figma) |
 | [`research/`](research) | Draft briefs, SDG alignment notes, publication-ready content |
 | [`models/`](models) | (For Phase 2) Classifier logic or scoring APIs |
+
 
 ---
 
