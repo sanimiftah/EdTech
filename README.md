@@ -72,7 +72,11 @@ Open a GitHub Issue, comment on our [proposal](proposal.md), or suggest improvem
 
 ## 🌱 Acknowledgments
 
-This project is aligned with ongoing work at **SEACrowd**, and grounded in cultural storytelling traditions like *Leungiteun* and *sisindiran* from West Java. It draws inspiration from the [Project Resilience](https://github.com/project-resilience) initiative and UNESCO AI ethics frameworks.
+This project is an independent initiative by [Sani Miftah](https://github.com/sanimiftah), developed independently at **Cogdev Malaysia Sdn. Bhd.**, as part of my ongoing exploration into ethical, inclusive, and context-aware applications of AI in education.  
+
+It draws inspiration from the values of open collaboration, responsible design, and alignment with global frameworks like the **UNESCO Recommendation on the Ethics of Artificial Intelligence**.  
+
+At its heart, this work reflects a belief that educational technologies should empower—not overwhelm—students and teachers, especially within Southeast Asia’s diverse and multilingual learning environments.
 
 Built by learners, for learners 🪴
 
