@@ -70,7 +70,7 @@ ETS is more than an app. It’s a movement toward mindful tech—one ripple at a
 `#GlideApps` `#EthicalEdTech` `#NoCodeToolkit` `#AIliteracy` `#SDG4` `#StorytellingInTech`
 
 ### 🙌 Built by  
-**Sani** | [Cognizant Malaysia • Youth Voices • GitHub Ethos Builder]
+**Sani Miftahudin** | [Cognizant Malaysia • Youth Voices • GitHub Ethos Builder]
 
 Let’s reflect deeply. And build honestly.
 
