@@ -1,4 +1,5 @@
-# 📚 Ethical AI Reflection Tool for Southeast Asia Classrooms (SDG 4)
+# 📚 Ethical AI Reflection Tool for Southeast Asia Classrooms (SDG 4)  
+*Deep Reflect. Honest Tech.*
 
 A culturally rooted, reflection-driven EdTech initiative to support **UN SDG 4: Quality Education**, by helping students and teachers navigate ethical AI use in the classroom—especially in Southeast Asia’s multilingual, low-resource contexts.
 
@@ -35,7 +36,6 @@ A culturally rooted, reflection-driven EdTech initiative to support **UN SDG 4: 
 | [`research/`](research) | Draft briefs, SDG alignment notes, publication-ready content |
 | [`models/`](models) | (For Phase 2) Classifier logic or scoring APIs |
 
-
 ---
 
 ## 🧪 Current Focus: Glide MVP
@@ -47,6 +47,32 @@ Using [Glide](https://www.glideapps.com/) + Google Sheets to prototype:
 - 👩‍🏫 Teacher dashboard with filters
 
 Pilot launch expected soon! Feedback forms, surveys, and sample entries coming soon to `/data`.
+
+---
+
+## 🚀 ETS by Sani – *Deep Reflect. Honest Tech.*
+
+**Built with Glide | SDG4 x Ethical AI Literacy**
+
+Welcome to the official hub of **ETS (EdTech by Sani)**—a values-driven, mobile-first toolkit that empowers learners to explore ethical technology through storytelling, reflection, and honest design.
+
+> *“Technology isn’t neutral. Neither are we.”*
+
+### 🛠️ What’s Inside
+- A no-code learning app built on [Glide](https://www.glideapps.com/) for rapid deployment  
+- Modules inspired by SDG4, AI literacy, and Southeast Asian cultural narratives  
+- Toolkit philosophy: reflection before innovation, ethics before automation
+
+### 🌊 Why ETS?
+ETS is more than an app. It’s a movement toward mindful tech—one ripple at a time. Designed to support educators, students, and changemakers who believe in **agency, transparency, and cultural context** in digital spaces.
+
+### 📦 Tags  
+`#GlideApps` `#EthicalEdTech` `#NoCodeToolkit` `#AIliteracy` `#SDG4` `#StorytellingInTech`
+
+### 🙌 Built by  
+**Sani** | [Cognizant Malaysia • Youth Voices • GitHub Ethos Builder]
+
+Let’s reflect deeply. And build honestly.
 
 ---
 
@@ -79,5 +105,3 @@ It draws inspiration from the values of open collaboration, responsible design, 
 At its heart, this work reflects a belief that educational technologies should empower—not overwhelm—students and teachers, especially within Southeast Asia’s diverse and multilingual learning environments.
 
 Built by learners, for learners 🪴
-
----
