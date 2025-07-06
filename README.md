@@ -1,3 +1,5 @@
+![ETS Banner](./data/ets-banner.png)
+
 # 📚 Ethical AI Reflection Tool for Southeast Asia Classrooms (SDG 4)  
 *Deep Reflect. Honest Tech.*
 
